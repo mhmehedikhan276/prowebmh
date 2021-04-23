@@ -1,0 +1,377 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+/*-------Header start--------*/
+header{
+	background: linear-gradient(to left,rgba(135,80,156,.9),rgba(177,102,206,0.9)),url('business-man-financial-inspector-secretary-making-report-calculating-checking-balance-internal-revenue-service-inspector-checking-document-audit-concept_1423-128.jpg');
+  background-size: cover;
+  background-position: center;
+	overflow: hidden;
+	padding-bottom: 130px
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.navbar {
+ background: linear-gradient(to left,rgba(135,80,156,.9),rgba(177,102,206,0.9))!important;
+}
+.navbar-brand img {
+  width: 80px;
+}
+.nav-link {
+  color: white!important;
+}
+.navbar-toggler {
+  outline: none!important;
+  border: none!important;
+}
+.header_content{
+	width: 75%;
+	text-align: center;
+	margin: auto;
+	margin-top: 140px;
+}
+.header_content h2{
+	color: #f7f3ea;
+	font-size: 40px;
+}
+.brown_btn{
+	text-align: center;
+	background-color: #eb7d4b;
+	padding: 20px;
+	display: inline-block;
+	margin-top: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: 700
+}
+/*-------Header End------- */
+/*-------Services Start------ */
+.services {
+  background: #17c2a4;
+  background: linear-gradient(to left,rgba(23,194,164,.9),rgba(105,215,196,.9)),url('business-peoples-analyzing-data-together-teamwork-planning-startup-new-project_38335-353.jpg');
+  background-size: cover;
+  background-position: center;
+	padding: 120px 0px;
+}
+.MainText {
+  text-align: center;
+  color: white;
+}
+.MainText p {
+  opacity:.7;
+}
+.mainbox {
+overflow: hidden;
+margin-top: 60px;
+text-align: center;
+}
+.singelBox {
+  float: left;
+  margin: 0 1%;
+  width: 23%;
+  color: white;
+}
+.singelBox img{
+  width: 80px;
+	height: 100px;
+}
+.singelBox h4 {
+  margin-top: 40px;
+	margin-bottom: 0px;
+	font-size: 24px;
+}
+.singelBox p {
+  font-size: 16px;
+	line-height: 22px;
+	opacity: .8;
+}
+/*-------Services End --------*/
+/*-------Tem Start --------*/
+.temmember {
+  background-color: #e7f1f8;
+  background: linear-gradient(to left,rgba(169,197,216,.9),rgba(137,197,241,0.9)),url('hacker-working-code-network_34200-388.jpg');
+  background-size: cover;
+  background-position: center;
+	overflow: hidden;
+	padding: 100px 0px;
+}
+.temm {
+  color: #3c4761;
+}
+.temm p {
+  opacity: 1;
+}
+.tembox {
+  margin-top: 100px;
+}
+.Timbox {
+  float: left;
+  margin: 0 1%;
+  width: 23%;
+  text-align: center;
+}
+.Timbox img {
+  width: 120px;
+	height: 120px;
+	border-radius: 50%;
+}
+.Timbox h2 {
+  margin-bottom: 5px;
+	color: #324f76;
+	font-size: 24px;
+}
+.Timbox h5 {
+  margin: 0;
+}
+.socialicon {
+  margin-top: 50px;
+}
+.socialicon i{
+  width: 25px;
+	height: 30px;
+	color: #fff;
+	background-color:#f744da;
+	border-radius: 50%;
+	padding: 10px;
+	padding-left: 5.5px!important;
+	margin: 0px!important;
+	text-align: center;
+}
+/*-------Tem  End --------*/
+/*-------Skill  Start --------*/
+.progressskill {
+  padding: 50px 0px;
+  background: linear-gradient(to left,rgba(196,224,152,0.7),rgba(156,206,76,0.7)),url('abstract-halftone-wallpaper_23-2148600733.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.pgbar {
+ color: black;
+}
+.progressbar {
+  overflow: hidden;
+  margin-top: 50px;
+}
+.singelgrogress {
+  float: left;
+  width: 23%;
+  margin: 0 1%;
+  text-align: center!important;
+}
+/*-------Skill  End --------*/
+/*-------portfolio Start --------*/
+.portfolio {
+  background: linear-gradient(to left,rgba(254,222,158,.7),rgba(252,205,112,0.7)),url('blue-copy-space-digital-background_23-2148821698.jpg');
+  background-size: cover;
+  background-position: center;
+	overflow: hidden;
+	padding: 50px 0px;
+	text-align: center;
+}
+.port {
+  color: black;
+}
+.portfolioMenu {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+.mixbtn {
+  background-color: #ebc985;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  padding: 5px 10px;
+}
+.mixitup-control-active {
+  background-color: white;
+}
+.er {
+  overflow: hidden;
+}
+.singelportimg {
+  width: 48%;
+  float: left;
+  margin: 0 1%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.singelportimg img {
+  width: 100%;
+}
+.singelportimg h2 {
+  font-weight: 100;
+}
+.portfolio_load_more_btn {
+  text-align: center!important;
+	background: #17c2a4;
+	padding: 20px;
+	display: inline-block;
+	margin-top: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 5px;
+  font-weight: 700;
+  border-bottom: 1px solid #000;
+}
+/*-------portfolio End --------*/
+/*------testimonial start --------*/
+.testimonial {
+  padding: 50px 0px;
+  background: linear-gradient(to left,rgba(215,70,128,.8),rgba(178,46,99,0.8)),url('close-up-photo-female-hand-holding-stylus-tablet-indoor-portrait-freelance-web-developer-working-project-during-coffee-break-office_197531-3745.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.test {
+  color: white;
+}
+.testmainbox {
+  margin-top: 50px;
+  overflow: hidden;
+}
+.testsingelbox {
+  float: left;
+  width: 48%;
+  margin: 0 1%;
+  margin-bottom: 30px;
+}
+.lefttest {
+  float: left;
+  width: 33%;
+  margin: 0 1%;
+  text-align: center;
+}
+.lefttest img {
+  width: 95%;
+  height: 130px;
+  border-radius: 50%;
+}
+.righttest {
+  float: left;
+  width: 60%;
+  margin: 0 1;
+  margin-left: 3%;
+}
+.righttest h3 {
+  margin: 20px 0px 0px 0px;
+	font-size: 24px;
+	color: white;
+	
+}
+.righttest h5 {
+	margin: 0px;
+	color: #ffdd99;
+	font-size: 18px;
+	margin-top: 8px;
+}
+.righttest p{
+	margin: 0px;
+	color: white;
+}
+/*-------testimonial End --------*/
+/*-------contact start --------*/
+.contact {
+  padding: 50px 0px;
+	background: linear-gradient(to left,rgba(77,101,171,.9),rgba(96,124,204,0.9)),url('business-peoples-analyzing-data-together-teamwork-planning-startup-new-project_38335-353.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.first_column {
+  overflow: hidden;
+  margin-top: 30px;
+}
+.first_half{
+	width: 48%;
+	float: left;
+	margin-right: 2%;
+}
+.first_half input {
+  width: 100%;
+  background: #273a71;
+  padding: 10px 0px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+.second_half{
+	width: 48%;
+	float: left;
+	margin-left: 2%;
+}
+.second_half input {
+  width: 100%;
+  background: #273a71;
+  padding: 10px 0px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+input::placeholder {
+  color: white;
+  padding-left: 30px;
+}
+textarea::placeholder {
+  color: white;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+.message textarea {
+  background: #273a71;
+  border: none;
+  margin-top: 30px;
+  width: 100%;
+  border-radius: 5px;
+  color: white;
+}
+.send_btn {
+  margin-top: 50px;
+}
+.send_btn input[type='submit'] {
+  width: 250px;
+  display: block;
+  margin: auto;
+  padding: 20px 0px;
+  background: #30bae7;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: 700;
+  border-bottom: 1px solid #000;
+}
+/*-------contact End --------*/
+/*-------Footer Start --------*/
+footer{
+	padding: 30px 0px;
+	background: linear-gradient(to left,rgba(52,142,78,0.9),rgba(0,204,255,0.6)),url('abstract-background-design_1297-88.jpg');
+  background-size: cover;
+  background-position: center;
+	text-align: Center;
+}
+footer ul{
+	margin: 0px;
+	padding: 0px;
+}
+footer ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 5px 10px;
+}
+footer ul li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 600;
+	transition: .5s;
+}
+footer ul li a:hover{
+	color: #30bae7;
+}
+/*-------Footer End --------*/
+.newmanu {
+  background-color: gray!important;
+}
